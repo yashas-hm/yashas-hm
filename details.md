@@ -24,7 +24,7 @@
 |ChequeScenner|[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashas-hm/Cheque-Scanner)|
 |MIDI Drums|[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.instructables.com/Arduino-MIDI-Drums/)|
 
-More Projects on [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashas-hm?tab=repositories)
+More Projects on<br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashas-hm?tab=repositories)
 
 - 📫 How to reach me:
 
