@@ -29,11 +29,12 @@
 
 📫 How to reach me:
 
-📧 Email: [yashashm.dev@gmail.com](mailto:yashashm.dev@gmail.com) <br>
-📸 Instagram: [@wittywidgets](https://www.instagram.com/wittywidgets) <br>
-💼 LinkedIn: [Yashas Majmudar](https://www.linkedin.com/in/yashashm08052001/) <br>
-🔗 Linktree: [I sing too 😶‍🌫️](https://linktr.ee/yashashm) <br>
-🌐 Portfolio: [More about me](https://yashas-hm.github.io/portfolio/)
+📧 Email         : [yashashm.dev@gmail.com](mailto:yashashm.dev@gmail.com) <br>
+📸 Instagram     : [@yashas_hm](https://www.instagram.com/yashas_hm) <br>
+💻 Code with me  : [@wittywidgets](https://www.instagram.com/wittywidgets) <br>
+💼 LinkedIn      : [Yashas Majmudar](https://www.linkedin.com/in/yashashm08052001/) <br>
+🔗 Linktree      : [I sing too 😶‍🌫️](https://linktr.ee/yashashm) <br>
+🌐 Portfolio     : [More about me](https://yashas-hm.github.io/portfolio/)
 
 Happy coding! 😄👨‍💻
 
