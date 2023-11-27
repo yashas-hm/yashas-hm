@@ -38,13 +38,13 @@
 
 📫 How to reach me:
 
+
+🌐 Website       : [More about me](https://yashashm.dev) <br>
 📧 Email         : [yashashm.dev@gmail.com](mailto:yashashm.dev@gmail.com) <br>
 📸 Instagram     : [@yashas_hm](https://www.instagram.com/yashas_hm) <br>
-💻 Code with me  : [@wittywidgets](https://www.instagram.com/wittywidgets) <br>
 💼 LinkedIn      : [Yashas Majmudar](https://www.linkedin.com/in/yashashm08052001/) <br>
-🔗 Linktree      : [I sing too 😶‍🌫️](https://linktr.ee/yashashm) <br>
-🌐 Website       : [More about me](https://yashashm.dev)
-
+🔗 Linktree      : [I sing too 😶‍🌫️](https://linktr.ee/yashashm)
+<!--💻 Code with me  : [@wittywidgets](https://www.instagram.com/wittywidgets) <br>-->
 Happy coding! 😄👨‍💻
 
 <!---
