@@ -8,6 +8,8 @@
 
 🔥 I'm passionate about creating elegant and efficient solutions to real-world problems. Constantly striving to improve my coding skills and staying up-to-date with the latest technologies.
 
+<hr>
+
 👀 Things I know
 
 **Front-End**: `Flutter` `React.js` `TypeScript`
@@ -30,14 +32,19 @@
 
 **Internet Of Things** `RaspberryPi` `Arduino` `ESP32`
 
+<hr>
+
 🌱 Currently exploring the fascinating world of Artificial Intelligence and Machine Learning.
 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<hr>
 
 🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers.
 
+<hr>
+
 ⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
+
+<hr>
 
 📫 How to reach me:
 
