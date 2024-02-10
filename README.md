@@ -8,7 +8,7 @@
 
 🔥 I'm passionate about creating elegant and efficient solutions to real-world problems. Constantly striving to improve my coding skills and staying up-to-date with the latest technologies.
 
-<hr>
+---
 
 👀 Things I know
 
@@ -32,19 +32,19 @@
 
 **Internet Of Things** `RaspberryPi` `Arduino` `ESP32`
 
-<hr>
+---
 
 🌱 Currently exploring the fascinating world of Artificial Intelligence and Machine Learning.
 
-<hr>
+---
 
 🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers.
 
-<hr>
+---
 
 ⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
 
-<hr>
+---
 
 📫 How to reach me:
 
