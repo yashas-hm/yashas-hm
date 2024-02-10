@@ -8,9 +8,9 @@
 
 🔥 I'm passionate about creating elegant and efficient solutions to real-world problems. Constantly striving to improve my coding skills and staying up-to-date with the latest technologies.
 
----
+### 👀 Things I know
 
-👀 Things I know
+---
 
 **Front-End**: `Flutter` `React.js` `TypeScript`
 
@@ -36,11 +36,7 @@
 
 🌱 Currently exploring the fascinating world of Artificial Intelligence and Machine Learning.
 
----
-
 🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers.
-
----
 
 ⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
 
@@ -51,7 +47,7 @@
 [<img src="./badge/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://yashashm.dev)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashas_hm)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm08052001)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YashasMajmudar)
 
 🎤😶‍🌫 I sing too:
