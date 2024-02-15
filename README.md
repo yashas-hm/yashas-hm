@@ -24,7 +24,7 @@
 
 **Cloud**: `AWS` `Google Cloud`
 
-**Languages**: `Dart` `Python` `Java` `Bash` `C++` `Rust`
+**Languages**: `Python` `Java` `Bash` `C++` `Rust`
 
 **Other**: `Swagger` `Postman` `Prometheus` `PowerBI` `Jira` `Slack` `Trello`
 
