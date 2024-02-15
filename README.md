@@ -12,7 +12,7 @@
 
 ---
 
-**Front-End**: `Flutter` `React.js` `TypeScript`
+**Front-End**: `Flutter` `Dart` `React.js` `TypeScript` `JavaScript`
 
 **Back-End**: `Node.js` `Express.js` `GraphQL` `NGINX`
 
