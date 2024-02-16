@@ -12,7 +12,7 @@
 
 ---
 
-**Front-End**: `Flutter` `Dart` `React.js` `TypeScript` `JavaScript`
+**Front-End**: `Flutter` `React.js` `HTML` `CSS`
 
 **Back-End**: `Node.js` `Express.js` `GraphQL` `NGINX`
 
@@ -24,7 +24,7 @@
 
 **Cloud**: `AWS` `Google Cloud`
 
-**Languages**: `Python` `Java` `Bash` `C++` `Rust`
+**Languages**: `Dart` `Python` `TypeScript` `JavaScript` `Java` `Bash` `C++` `Rust`
 
 **Other**: `Swagger` `Postman` `Prometheus` `PowerBI` `Jira` `Slack` `Trello`
 
