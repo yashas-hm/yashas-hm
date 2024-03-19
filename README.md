@@ -36,7 +36,7 @@
 
 🌱 Currently exploring the fascinating world of Artificial Intelligence and Machine Learning.
 
-🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers.
+🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers [View Here 🎉](./open-source.md).
 
 ⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
 
