@@ -1,6 +1,6 @@
 
 ### Hi, I'm
-<img src="./badge/text_name.png" alt="Yashas H Majmudar">
+<img src="assets/text_name.png" alt="Yashas H Majmudar">
 
 #### Welcome to my GitHub Profile! 🚀
 
@@ -44,7 +44,7 @@
 
 📫 How to reach me:
 
-[<img src="./badge/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
+[<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashm.dev@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashas_hm)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
