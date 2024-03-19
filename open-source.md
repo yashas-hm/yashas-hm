@@ -8,8 +8,8 @@ Repository Link: [**foss42/apidash**](https://github.com/foss42/apidash)
 | Issue                                                                                                                      | Pull-Request                                                                                           | 
 |:---------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|
 | [![🔍 ISSUE](./assets/issue.png) Adding Tabs at the top of the request pane](https://github.com/foss42/apidash/issues/306) | [![🎉 PR](./assets/pr.png) Feat tab view](https://github.com/foss42/apidash/pull/327)                  |
-| [![🔍 ISSUE](./assets/issue.png) Add a search/filter for collection pane](https://github.com/foss42/apidash/issues/305)    | [![🎉 PR](./assets/pr.png) Feat search requests](https://github.com/foss42/apidash/pull/325)           |
-| [![🔍 ISSUE](./assets/issue.png) Select and delete in groups](https://github.com/foss42/apidash/issues/319)                | [![🎉 PR](./assets/pr.png) Feat delete multiple requests](https://github.com/foss42/apidash/pull/323)  |
+| [![🔍 ISSUE](./assets/issue.png) Add a search/filter for collection pane](https://github.com/foss42/apidash/issues/305)    | [![🎉 PR](./assets/pr.png) Feat search requests](https://github.com/foss42/apidash/pull/330)           |
+| [![🔍 ISSUE](./assets/issue.png) Select and delete in groups](https://github.com/foss42/apidash/issues/319)                | [![🎉 PR](./assets/pr.png) Feat delete multiple requests](https://github.com/foss42/apidash/pull/331)  |
 | [![🔍 ISSUE](./assets/issue.png) Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/issues/109)             | [![🎉 PR](./assets/pr.png) Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/pull/113) |
 
 ## Supabase CLI
