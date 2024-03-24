@@ -1,18 +1,23 @@
 # 🌟 My Stellar Open Source Contributions 🚀
 Stayed up late to fix these issues because bugs don't believe in regular working hours! 💻✨ Keep those issues coming and let's make the world of coding a brighter place, one line at a time! 🔥🌟
 
-## ApiDash
+## Contributions
+1. [API Dash](#apidash)
+2. [Supabase CLI](#supabase-cli)
+3. [Overlapped Carousel](#overlapped-carousel)
+
+### APIDash
 
 Repository Link: [**foss42/apidash**](https://github.com/foss42/apidash)
 
 | Issue                                                                                                                      | Pull-Request                                                                                           | 
 |:---------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|
 | [![🔍 ISSUE](./assets/issue.png) Adding Tabs at the top of the request pane](https://github.com/foss42/apidash/issues/306) | [![🎉 PR](./assets/pr.png) Feat tab view](https://github.com/foss42/apidash/pull/327)                  |
-| [![🔍 ISSUE](./assets/issue.png) Add a search/filter for collection pane](https://github.com/foss42/apidash/issues/305)    | [![🎉 PR](./assets/pr.png) Feat search requests](https://github.com/foss42/apidash/pull/330)           |
+| [![🔍 ISSUE](./assets/resolved.png) Add a search/filter for collection pane](https://github.com/foss42/apidash/issues/305) | [![🎉 PR](./assets/pr-closed.png) Feat search requests](https://github.com/foss42/apidash/pull/330)    |
 | [![🔍 ISSUE](./assets/issue.png) Select and delete in groups](https://github.com/foss42/apidash/issues/319)                | [![🎉 PR](./assets/pr.png) Feat delete multiple requests](https://github.com/foss42/apidash/pull/331)  |
 | [![🔍 ISSUE](./assets/issue.png) Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/issues/109)             | [![🎉 PR](./assets/pr.png) Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/pull/113) |
 
-## Supabase CLI
+### Supabase CLI
 
 Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
 
@@ -20,7 +25,7 @@ Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | [![✅ RESOLVED](./assets/resolved.png) Deno Config Support for IntelliJ IDEA/ Android Studio in supabase init](https://github.com/supabase/cli/issues/1998) | [![🔀 MERGED](./assets/merge.png) feat: added initialisation flag for IntelliJ Deno Config](https://github.com/supabase/cli/pull/2045) |
 
-## Overlapped Carousel
+### Overlapped Carousel
 
 Repository Link: [**delwar36/overlapped_carousel**](https://github.com/delwar36/overlapped_carousel)
 
