@@ -1,3 +1,7 @@
+<!---
+yashas-hm/yashas-hm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 ### Hi, I'm
 <img src="assets/text_name.png" alt="Yashas H Majmudar">
@@ -54,8 +58,10 @@
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/yashashm)
 
+### GitHub Stats
 
-<!---
-yashas-hm/yashas-hm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-hm&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=0.5)
+
+![](https://github-profile-trophy.vercel.app/?username=yashas-hm&theme=onedark&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=5)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashas-hm&theme=onedark&hide_border=false)
