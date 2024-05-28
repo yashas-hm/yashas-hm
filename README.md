@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Welcome to my GitHub Profile! 🚀
 
-💻 Full Stack Developer | 📱 Mobile App Wizard | 🌐 Cloud Enthusiast 
+💻 Full Stack Developer | 📱 Mobile App Wizard | 🌐 Cloud & AI Enthusiast 
 
 🔥 I'm passionate about creating elegant and efficient solutions to real-world problems. Constantly striving to improve my coding skills and staying up-to-date with the latest technologies.
 
