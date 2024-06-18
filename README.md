@@ -65,3 +65,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=yashas-hm&theme=onedark&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=5)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashas-hm&theme=onedark&hide_border=false)
+
+![](https://github-contributor-stats.vercel.app/api?username=yashas-hm&limit=5&theme=onedark&combine_all_yearly_contributions=true)
