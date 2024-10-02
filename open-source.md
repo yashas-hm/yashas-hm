@@ -50,3 +50,11 @@ Repository Link: [**foss42/apidash**](https://github.com/foss42/apidash)
 | [![🔍 ISSUE](./assets/issue.png) Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/issues/109)                                                  | [![ 🚧 CLOSED](./assets/pr-closed.png) Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/pull/113) (Maintainers don't want to migrate to Dio) |
 | [![🔍 ISSUE](./assets/issue.png) Saving state never terminates if persistent files cannot be accessed / modified](https://github.com/foss42/apidash/issues/359) | [![ 🚧 CLOSED](./assets/pr-closed.png) Fix hive persistence issue](https://github.com/foss42/apidash/pull/363) (Permission Handling Issue)                    |
 | [![🚫 CLOSED](./assets/closed.png) UI update for API Dash Website](https://github.com/foss42/apidash/issues/362)                                                |                                                                                                                                                               |
+
+### CSXL.UNC.EDU
+
+Repository Link: [**unc-csxl/csxl.unc.edu**](https://github.com/unc-csxl/csxl.unc.edu)
+
+| Issue                                                                                                                                                                     | Pull Request                                                                                                                 |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| [![🔍 ISSUE](./assets/issue.png) Improve User Feedback When Reservation Fails Due to Unaccepted Community Agreement](https://github.com/unc-csxl/csxl.unc.edu/issues/625) | [![🎉 PR](./assets/pr.png) Add User Agreement Check Before Reservations ](https://github.com/unc-csxl/csxl.unc.edu/pull/626) |
