@@ -8,6 +8,7 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 1. [Supabase CLI](#supabase-cli)
 2. [Overlapped Carousel](#overlapped-carousel)
 3. [API Dash](#apidash)
+4. [CSXL UNC](#csxluncedu)
 
 ## Symbol Key
 
