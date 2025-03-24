@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 🔥 I'm passionate about creating elegant and efficient solutions to real-world problems. Constantly striving to improve my coding skills and staying up-to-date with the latest technologies.
 
-### 
+### [🌟 My Stellar Open Source Contributions 🚀](./contributions.md)
 
 ### 👀 Things I know
 

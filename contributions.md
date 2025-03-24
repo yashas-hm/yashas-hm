@@ -6,10 +6,11 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 ## Contributions
 
 1. [Supabase CLI](#supabase-cli)
-2. [Overlapped Carousel](#overlapped-carousel)
-3. [API Dash](#apidash)
-4. [CSXL UNC](#csxluncedu)
-5. [Chips Input AutoComplete](#chips-input-autocomplete)
+2. [wger Project](#wger-project)
+3. [Overlapped Carousel](#overlapped-carousel)
+4. [API Dash](#apidash)
+5. [CSXL UNC](#csxluncedu)
+6. [Chips Input AutoComplete](#chips-input-autocomplete)
 
 ## Symbol Key
 
@@ -30,6 +31,16 @@ Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
 |:----------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | [![RESOLVED] Deno Config Support for IntelliJ IDEA/ Android Studio in supabase init](https://github.com/supabase/cli/issues/1998) | [![PR_MERGED] feat: added initialisation flag for IntelliJ Deno Config](https://github.com/supabase/cli/pull/2045) |
 
+### wger Project
+
+Repository Link: [**wger-project/flutter**](https://github.com/wger-project/flutter)
+
+| Issue                                                                                                                | Pull-Request                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| [![ISSUE] Replace SharedPreferences with SharedPreferencesAsync](https://github.com/wger-project/flutter/issues/731) | [![PR] SharedPreferences to SharedPreferencesAsync Migration](https://github.com/wger-project/flutter/pull/761) |
+| [![ISSUE] Replace golden_toolkit package](https://github.com/wger-project/flutter/issues/732)                        | [![PR] golden_toolkit to flutter_test Migration](https://github.com/wger-project/flutter/pull/762)              |
+| [![ISSUE] Exercise filters not opening](https://github.com/wger-project/flutter/issues/743)                          |                                                                                                                 |
+
 ### Overlapped Carousel
 
 Repository Link: [**delwar36/overlapped_carousel**](https://github.com/delwar36/overlapped_carousel)
@@ -43,15 +54,15 @@ Repository Link: [**delwar36/overlapped_carousel**](https://github.com/delwar36/
 
 Repository Link: [**foss42/apidash**](https://github.com/foss42/apidash)
 
-| Issue                                                                                                                                    | Pull-Request                                                                                                                                      | 
-|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![ISSUE] Adding Tabs at the top of the request pane](https://github.com/foss42/apidash/issues/306)                                      | [![PR] Feat tab view](https://github.com/foss42/apidash/pull/327)                                                                                 |
-| [![RESOLVED] Prompting to save data even when no changes made](https://github.com/foss42/apidash/issues/364)                             | [![🔀 Merged](./assets/merged.png) Fix prompt only when changes made](https://github.com/foss42/apidash/pull/365)                                 |
-| [![RESOLVED] Add a search/filter for collection pane](https://github.com/foss42/apidash/issues/305)                                      | [![PR_CLOSED] Feat search requests](https://github.com/foss42/apidash/pull/330)                                                                   |
-| [![ISSUE] Select and delete in groups](https://github.com/foss42/apidash/issues/319)                                                     | [![🚧 CLOSED](./assets/pr-closed.png) Feat delete multiple requests](https://github.com/foss42/apidash/pull/368) (Not accepting low priority PRs) |
-| [![ISSUE] Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/issues/109)                                                  | [![PR_CLOSED] Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/pull/113) (Maintainers don't want to migrate to Dio)              |
-| [![ISSUE] Saving state never terminates if persistent files cannot be accessed / modified](https://github.com/foss42/apidash/issues/359) | [![PR_CLOSED] Fix hive persistence issue](https://github.com/foss42/apidash/pull/363) (Permission Handling Issue)                                 |
-| [![CLOSED] UI update for API Dash Website](https://github.com/foss42/apidash/issues/362)                                                 |                                                                                                                                                   |
+| Issue                                                                                                                                       | Pull-Request                                                                                                                                      | 
+|:--------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![ISSUE] Adding Tabs at the top of the request pane](https://github.com/foss42/apidash/issues/306)                                         | [![PR] Feat tab view](https://github.com/foss42/apidash/pull/327)                                                                                 |
+| [![RESOLVED] Prompting to save data even when no changes made](https://github.com/foss42/apidash/issues/364)                                | [![🔀 Merged](./assets/merged.png) Fix prompt only when changes made](https://github.com/foss42/apidash/pull/365)                                 |
+| [![RESOLVED] Add a search/filter for collection pane](https://github.com/foss42/apidash/issues/305)                                         | [![PR_CLOSED] Feat search requests](https://github.com/foss42/apidash/pull/330)                                                                   |
+| [![CLOSED] Select and delete in groups](https://github.com/foss42/apidash/issues/319)                                                       | [![🚧 CLOSED](./assets/pr-closed.png) Feat delete multiple requests](https://github.com/foss42/apidash/pull/368) (Not accepting low priority PRs) |
+| [![RESOLVED] Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/issues/109)                                                  | [![PR_CLOSED] Make Cancel-able HTTP Requests](https://github.com/foss42/apidash/pull/113) (Maintainers don't want to migrate to Dio)              |
+| [![RESOLVED] Saving state never terminates if persistent files cannot be accessed / modified](https://github.com/foss42/apidash/issues/359) | [![PR_CLOSED] Fix hive persistence issue](https://github.com/foss42/apidash/pull/363) (Permission Handling Issue)                                 |
+| [![CLOSED] UI update for API Dash Website](https://github.com/foss42/apidash/issues/362)                                                    |                                                                                                                                                   |
 
 ### CSXL.UNC.EDU
 
