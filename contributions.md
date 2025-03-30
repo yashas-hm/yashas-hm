@@ -35,13 +35,13 @@ Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
 
 Repository Link: [**wger-project/flutter**](https://github.com/wger-project/flutter)
 
-| Issue                                                                                                                | Pull-Request                                                                                                    |
-|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
-| [![ISSUE] Replace SharedPreferences with SharedPreferencesAsync](https://github.com/wger-project/flutter/issues/731) | [![PR] SharedPreferences to SharedPreferencesAsync Migration](https://github.com/wger-project/flutter/pull/761) |
-| [![ISSUE] Replace golden_toolkit package](https://github.com/wger-project/flutter/issues/732)                        | [![PR] golden_toolkit to flutter_test Migration](https://github.com/wger-project/flutter/pull/762)              |
-| [![RESOLVED] Exercise filters not opening](https://github.com/wger-project/flutter/issues/743)                       | [![PR_MERGED] Exercise filters bug fix: Issue #743](https://github.com/wger-project/flutter/pull/766)           |
-| [![RESOLVED] Bigger images for ingredient details](https://github.com/wger-project/flutter/issues/724)               | [![PR_MERGED] Nutrition dialog image fix: Issue #724](https://github.com/wger-project/flutter/pull/768)         |
-| [![ISSUE] Show all exercise images](https://github.com/wger-project/flutter/issues/767)                              | [ ![PR] Carousel for Exercise Details Images](https://github.com/wger-project/flutter/pull/769)                 |
+| Issue                                                                                                                        | Pull-Request                                                                                                           |
+|:-----------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| [![RESOLVED] Replace SharedPreferences with SharedPreferencesAsync](https://github.<br/>com/wger-project/flutter/issues/731) | [![PR_MERGED] SharedPreferences to SharedPreferencesAsync Migration](https://github.com/wger-project/flutter/pull/761) |
+| [![ISSUE] Replace golden_toolkit package](https://github.com/wger-project/flutter/issues/732)                                | [![PR] golden_toolkit to flutter_test Migration](https://github.com/wger-project/flutter/pull/762)                     |
+| [![RESOLVED] Exercise filters not opening](https://github.com/wger-project/flutter/issues/743)                               | [![PR_MERGED] Exercise filters bug fix: Issue #743](https://github.com/wger-project/flutter/pull/766)                  |
+| [![RESOLVED] Bigger images for ingredient details](https://github.com/wger-project/flutter/issues/724)                       | [![PR_MERGED] Nutrition dialog image fix: Issue #724](https://github.com/wger-project/flutter/pull/768)                |
+| [![RESOLVED] Show all exercise images](https://github.com/wger-project/flutter/issues/767)                                   | [ ![PR_MERGED] Carousel for Exercise Details Images](https://github.com/wger-project/flutter/pull/769)                 |
 
 ### Overlapped Carousel
 
