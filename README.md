@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 **Front-End**: `Flutter` `React.js` `HTML` `CSS`
 
-**Back-End**: `Node.js` `Express.js` `GraphQL` `NGINX`
+**Back-End**: `FastAPI` `Node.js` `Express.js` `GraphQL`
 
 **Database**: `Firebase` `MongoDB` `MySQL` `PostgreSQL` `Supabase`
 
@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 **Cloud**: `AWS` `Google Cloud`
 
-**Languages**: `Dart` `Python` `TypeScript` `JavaScript` `Java` `Bash` `C++` `Rust`
+**Languages**: `Dart` `Python` `TypeScript` `JavaScript` `Java` `Bash` `C++` `Rust` `Go`
 
-**Other**: `Swagger` `Postman` `Prometheus` `PowerBI` `Jira` `Slack` `Trello`
+**Other**: `Swagger` `Postman` `Prometheus` `Jira` `Slack` `Trello`
 
-**Machine Learning**: `OpenCV` `TensorFlow` `Pandas` `NumPy` `SciKit-Learn`
+**ML/AI**: `OpenCV` `TensorFlow` `LLM` `HuggingFace` `LangChain`
 
 **Internet Of Things** `RaspberryPi` `Arduino` `ESP32`
 
