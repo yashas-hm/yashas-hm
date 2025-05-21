@@ -5,13 +5,13 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 
 ## Contributions
 
-1. [Supabase CLI](#supabase-cli)
-2. [Wger Project](#wger-project)
-3. [Overlapped Carousel](#overlapped-carousel)
-4. [API Dash](#apidash)
-5. [CSXL UNC](#csxluncedu)
-6. [Chips Input AutoComplete](#chips-input-autocomplete)
-7. [Country Calling Code Picker](#country-calling-code-picker-plus)
+1. [Serverpod](#serverpod)
+2. [Supabase CLI](#supabase-cli)
+3. [Wger Project](#wger-project)
+4. [Overlapped Carousel](#overlapped-carousel)
+5. [API Dash](#apidash)
+6. [CSXL UNC](#csxluncedu)
+7. [Chips Input AutoComplete](#chips-input-autocomplete)
 
 ## Symbol Key
 
@@ -23,6 +23,14 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 |    ![PR]     | 🎉 Pull-request Created |
 | ![PR_CLOSED] | 🚧 Pull-request Closed  |
 | ![PR_MERGED] | 🔀 Pull-request Merged  |
+
+### Serverpod
+
+Repository Link: [**Serverpod**](https://github.com/serverpod/serverpod)
+
+|                                              Issue                                              |                                                            Pull Request                                                             |
+|:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| [![ISSUE] Add listener to shutdown process](https://github.com/serverpod/serverpod/issues/3549) | [![PR] feat: Added ShutdownListenerManager for Graceful Server Shutdown Handling](https://github.com/serverpod/serverpod/pull/3555) |
 
 ### Supabase CLI
 
@@ -82,15 +90,6 @@ Repository Link: [**BruckCode/chips_input_autocomplete**](https://github.com/Bru
 | Issue                                                                                                          | Pull-Request                                                                                                |
 |:---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
 | [![ISSUE] Setting 'initialChips' causes error](https://github.com/BruckCode/chips_input_autocomplete/issues/4) | [![PR] Fix FormFieldKey Initialization Error](https://github.com/BruckCode/chips_input_autocomplete/pull/5) |
-
-### Country Calling Code Picker Plus
-
-Repository Link: [**Nostalgia3102/country_calling_code_picker_plus
-**](https://github.com/Nostalgia3102/country_calling_code_picker_plus)
-
-|                                                      Issue                                                      |                                                        Pull Request                                                        |
-|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
-| [![ISSUE] Fatal Error: Not Working](https://github.com/Nostalgia3102/country_calling_code_picker_plus/issues/2) | [![PR] Raw josn load init error in getCountries](https://github.com/Nostalgia3102/country_calling_code_picker_plus/pull/3) |
 
 [ISSUE]: ./assets/issue.png
 
