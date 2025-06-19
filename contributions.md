@@ -28,9 +28,9 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 
 Repository Link: [**Serverpod**](https://github.com/serverpod/serverpod)
 
-|                                              Issue                                              |                                                            Pull Request                                                             |
-|:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
-| [![ISSUE] Add listener to shutdown process](https://github.com/serverpod/serverpod/issues/3549) | [![PR] feat: Added ShutdownListenerManager for Graceful Server Shutdown Handling](https://github.com/serverpod/serverpod/pull/3555) |
+|                                               Issue                                                |                                                                Pull Request                                                                |
+|:--------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| [![RESOLVED] Add listener to shutdown process](https://github.com/serverpod/serverpod/issues/3549) | [![PR_MERGED] feat: Added ShutdownListenerManager for Graceful Server Shutdown Handling](https://github.com/serverpod/serverpod/pull/3555) |
 
 ### Supabase CLI
 
