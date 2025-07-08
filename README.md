@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Welcome to my GitHub Profile! 🚀
 
-🔥 I craft beautiful, high-performance mobile apps with Flutter. Obsessed with clean architecture, smooth animations, and solving real-world problems—one widget at a time. Always learning, always shipping.
+🔥 I craft beautiful, high-performance mobile apps with Flutter. Obsessed with clean architecture, smooth animations, and solving real-world problems, one widget at a time. Always learning, always shipping.
 
 Fluttering through bugs, features, and the occasional existential crisis.
 
