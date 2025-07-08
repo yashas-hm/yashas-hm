@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 #### Welcome to my GitHub Profile! 🚀
 
-💻 Full Stack Developer | 📱 Mobile App Wizard | 🌐 Cloud & AI Enthusiast 
+🔥 I craft beautiful, high-performance mobile apps with Flutter. Obsessed with clean architecture, smooth animations, and solving real-world problems—one widget at a time. Always learning, always shipping.
 
-🔥 I'm passionate about creating elegant and efficient solutions to real-world problems. Constantly striving to improve my coding skills and staying up-to-date with the latest technologies.
+Fluttering through bugs, features, and the occasional existential crisis.
 
 ### [🌟 My Stellar Open Source Contributions 🚀](./contributions.md)
 
