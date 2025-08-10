@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 Fluttering through bugs, features, and the occasional existential crisis.
 
 ### [🌟 My Stellar Open Source Contributions 🚀](./contributions.md)
+### [Catch Me Sharing Flutter Magic 🦋⚡ in Talks & Workshops](https://github.com/yashas-hm/talks)
 
 ### 👀 Things I know
 
