@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 [<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashm.dev@gmail.com)&nbsp;
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YashasMajmudar)
 
-🎤😶‍🌫 I sing too:
+### 🎤😶‍🌫 I sing too:
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/yashashm)
 

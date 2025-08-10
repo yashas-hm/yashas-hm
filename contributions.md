@@ -39,6 +39,7 @@ Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
 | Issue                                                                                                                             | Pull-Request                                                                                                       |
 |:----------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | [![RESOLVED] Deno Config Support for IntelliJ IDEA/ Android Studio in supabase init](https://github.com/supabase/cli/issues/1998) | [![PR_MERGED] feat: added initialisation flag for IntelliJ Deno Config](https://github.com/supabase/cli/pull/2045) |
+| [![ISSUE] Improve PasswordHashValidator](https://github.com/serverpod/serverpod/issues/3698)                                      | [![PR] Coming Soon]()                                                                                              |
 
 ### Wger Project
 
