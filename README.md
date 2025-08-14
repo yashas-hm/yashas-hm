@@ -12,8 +12,17 @@ You can click the Preview link to take a look at your changes.
 
 Fluttering through bugs, features, and the occasional existential crisis.
 
-### [🌟 My Stellar Open Source Contributions 🚀](./contributions.md)
-### [Catch Me Sharing Flutter Magic 🦋⚡ in Talks & Workshops](https://github.com/yashas-hm/talks)
+#### 🌟 Highlights
+- I write [blogs & articles](https://yashashm.medium.com/) sharing Flutter insights and tips
+- I deliver [talks and workshops](https://github.com/yashas-hm/talks) to share Flutter magic 
+- I contribute to [open source projects](./contributions.md) making Flutter better for everyone
+  
+#### 📫 How to reach me:
+[<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashm.dev@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashas_hm)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YashasMajmudar)
 
 ### 👀 Things I know
 
@@ -48,14 +57,6 @@ Fluttering through bugs, features, and the occasional existential crisis.
 ⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
 
 ---
-
-### 📫 How to reach me:
-
-[<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashm.dev@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashas_hm)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YashasMajmudar)
 
 ### 🎤😶‍🌫 I sing too:
 
