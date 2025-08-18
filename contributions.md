@@ -28,10 +28,11 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 
 Repository Link: [**Serverpod**](https://github.com/serverpod/serverpod)
 
-| Issue                                                                                              | Pull Request                                                                                                                               |
-|:---------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| [![RESOLVED] Add listener to shutdown process](https://github.com/serverpod/serverpod/issues/3549) | [![PR_MERGED] feat: Added ShutdownListenerManager for Graceful Server Shutdown Handling](https://github.com/serverpod/serverpod/pull/3555) |
-| [![ISSUE] Improve PasswordHashValidator](https://github.com/serverpod/serverpod/issues/3698)       | [![PR] feat: Custom object return for password hash validator and named parameters](https://github.com/serverpod/serverpod/pull/3878)      |
+| Issue                                                                                                       | Pull Request                                                                                                                                   |
+|:------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [![RESOLVED] Add listener to shutdown process](https://github.com/serverpod/serverpod/issues/3549)          | [![PR_MERGED] feat: Added ShutdownListenerManager for Graceful Server Shutdown Handling](https://github.com/serverpod/serverpod/pull/3555)     |
+| [![RESOLVED] Improve PasswordHashValidator](https://github.com/serverpod/serverpod/issues/3698)             | [![PR_MERGED] feat: Custom object return for password hash validator and named parameters](https://github.com/serverpod/serverpod/pull/3878)   |
+| [![ISSUE] Consolidate Email Account Request exceptions](https://github.com/serverpod/serverpod/issues/3882) | [![PR] feat: Consolidate Password reset requests exceptions and account creation exceptions](https://github.com/serverpod/serverpod/pull/3892) |
 
 ### Supabase CLI
 
