@@ -33,7 +33,7 @@ Repository Link: [**Serverpod**](https://github.com/serverpod/serverpod)
 | [![RESOLVED] Add listener to shutdown process](https://github.com/serverpod/serverpod/issues/3549)                                              | [![PR_MERGED] feat: Added ShutdownListenerManager for Graceful Server Shutdown Handling](https://github.com/serverpod/serverpod/pull/3555)            |
 | [![RESOLVED] Improve PasswordHashValidator](https://github.com/serverpod/serverpod/issues/3698)                                                 | [![PR_MERGED] feat: Custom object return for password hash validator and named parameters](https://github.com/serverpod/serverpod/pull/3878)          |
 | [![RESOLVED] Consolidate Email Account Request exceptions](https://github.com/serverpod/serverpod/issues/3882)                                  | [![PR_MERGED] feat: Consolidate Password reset requests exceptions and account creation exceptions](https://github.com/serverpod/serverpod/pull/3892) |
-| [![ISSUE] Password length validation missing on email authentication password reset/change](https://github.com/serverpod/serverpod/issues/3891) | [![PR] Feat: password length validation in reset and change password](https://github.com/serverpod/serverpod/pull/3905)                               |
+| [![ISSUE] Password length validation missing on email authentication password reset/change](https://github.com/serverpod/serverpod/issues/3891) | [![PR] feat: Password length validation in reset and change password](https://github.com/serverpod/serverpod/pull/3905)                               |
 
 ### Supabase CLI
 
