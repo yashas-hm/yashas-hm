@@ -5,13 +5,16 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 
 ## Contributions
 
-1. [Serverpod](#serverpod)
-2. [Supabase CLI](#supabase-cli)
-3. [Wger Project](#wger-project)
-4. [Overlapped Carousel](#overlapped-carousel)
-5. [API Dash](#apidash)
-6. [CSXL UNC](#csxluncedu)
-7. [Chips Input AutoComplete](#chips-input-autocomplete)
+1. [Very Good Ventures](#very-good-ventures)
+2. [Serverpod](#serverpod)
+3. [Supabase CLI](#supabase-cli)
+4. [Wger Project](#wger-project)
+5. [Overlapped Carousel](#overlapped-carousel)
+6. [API Dash](#apidash)
+7. [CSXL UNC](#csxluncedu)
+8. [Chips Input AutoComplete](#chips-input-autocomplete)
+
+---
 
 ## Symbol Key
 
@@ -24,6 +27,18 @@ let's make the world of coding a brighter place, one line at a time! 🔥🌟
 | ![PR_CLOSED] | 🚧 Pull-request Closed  |
 | ![PR_MERGED] | 🔀 Pull-request Merged  |
 
+---
+
+### Very Good Ventures
+
+Repository Link: [VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates)
+
+| Issue                                                                                                                    | Pull-Request                                                                                                            |
+|:-------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
+| [![ISSUE] feat: add platform flags to the template](https://github.com/VeryGoodOpenSource/very_good_templates/issues/30) | [![PR] feat(very_good_flame): add platform options](https://github.com/VeryGoodOpenSource/very_good_templates/pull/340) |
+
+---
+
 ### Serverpod
 
 Repository Link: [**Serverpod**](https://github.com/serverpod/serverpod)
@@ -35,6 +50,8 @@ Repository Link: [**Serverpod**](https://github.com/serverpod/serverpod)
 | [![RESOLVED] Consolidate Email Account Request exceptions](https://github.com/serverpod/serverpod/issues/3882)                                  | [![PR_MERGED] feat: Consolidate Password reset requests exceptions and account creation exceptions](https://github.com/serverpod/serverpod/pull/3892) |
 | [![ISSUE] Password length validation missing on email authentication password reset/change](https://github.com/serverpod/serverpod/issues/3891) | [![PR] feat: Password length validation in reset and change password](https://github.com/serverpod/serverpod/pull/3905)                               |
 
+---
+
 ### Supabase CLI
 
 Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
@@ -42,6 +59,8 @@ Repository Link: [**supabase/cli**](https://github.com/supabase/cli)
 | Issue                                                                                                                             | Pull-Request                                                                                                       |
 |:----------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | [![RESOLVED] Deno Config Support for IntelliJ IDEA/ Android Studio in supabase init](https://github.com/supabase/cli/issues/1998) | [![PR_MERGED] feat: added initialisation flag for IntelliJ Deno Config](https://github.com/supabase/cli/pull/2045) |
+
+---
 
 ### Wger Project
 
@@ -55,6 +74,8 @@ Repository Link: [**wger-project/flutter**](https://github.com/wger-project/flut
 | [![RESOLVED] Bigger images for ingredient details](https://github.com/wger-project/flutter/issues/724)                       | [![PR_MERGED] Nutrition dialog image fix: Issue #724](https://github.com/wger-project/flutter/pull/768)                |
 | [![RESOLVED] Show all exercise images](https://github.com/wger-project/flutter/issues/767)                                   | [ ![PR_MERGED] Carousel for Exercise Details Images](https://github.com/wger-project/flutter/pull/769)                 |
 
+---
+
 ### Overlapped Carousel
 
 Repository Link: [**delwar36/overlapped_carousel**](https://github.com/delwar36/overlapped_carousel)
@@ -63,6 +84,8 @@ Repository Link: [**delwar36/overlapped_carousel**](https://github.com/delwar36/
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![RESOLVED] Is it possible to choose whether or not to skew the non-foreground cards?](https://github.com/delwar36/overlapped_carousel/issues/2)                  | [![PR_MERGED] Solved Issue #2: Is it possible to choose whether or not to skew the non-foreground cards?](https://github.com/delwar36/overlapped_carousel/pull/5) |
 | [![RESOLVED] Is it possible to obscure (in a progressive way) the cards that are not in the foreground?](https://github.com/delwar36/overlapped_carousel/issues/2) | [![PR_MERGED] Solved Issue #3: Obscuring images not in foreground](https://github.com/delwar36/overlapped_carousel/pull/4)                                        |
+
+---
 
 ### APIDash
 
@@ -78,6 +101,8 @@ Repository Link: [**foss42/apidash**](https://github.com/foss42/apidash)
 | [![RESOLVED] Saving state never terminates if persistent files cannot be accessed / modified](https://github.com/foss42/apidash/issues/359) | [![PR_CLOSED] Fix hive persistence issue](https://github.com/foss42/apidash/pull/363) (Permission Handling Issue)                    |
 | [![CLOSED] UI update for API Dash Website](https://github.com/foss42/apidash/issues/362)                                                    |                                                                                                                                      |
 
+---
+
 ### CSXL.UNC.EDU
 
 Repository Link: [**unc-csxl/csxl.unc.edu**](https://github.com/unc-csxl/csxl.unc.edu)
@@ -85,6 +110,8 @@ Repository Link: [**unc-csxl/csxl.unc.edu**](https://github.com/unc-csxl/csxl.un
 | Issue                                                                                                                                                 | Pull Request                                                                                                    |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
 | [![RESOLVED] Improve User Feedback When Reservation Fails Due to Unaccepted Community Agreement](https://github.com/unc-csxl/csxl.unc.edu/issues/625) | [![PR_CLOSED] Add User Agreement Check Before Reservations ](https://github.com/unc-csxl/csxl.unc.edu/pull/626) |
+
+---
 
 ### Chips Input AutoComplete
 
