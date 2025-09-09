@@ -130,6 +130,6 @@ Repository Link: [**BruckCode/chips_input_autocomplete**](https://github.com/Bru
 
 [PR]: ./assets/pr.png
 
-[PR_CLOSED]: assets/pr-closed.png
+[PR_CLOSED]: ./assets/pr-closed.png
 
 [PR_MERGED]: ./assets/merged.png
