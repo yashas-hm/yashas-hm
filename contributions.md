@@ -120,7 +120,7 @@ Repository Link: [**BruckCode/chips_input_autocomplete**](https://github.com/Bru
 
 | Issue                                                                                                          | Pull-Request                                                                                                |
 |:---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
-| [![ISSUE] Setting 'initialChips' causes error](https://github.com/BruckCode/chips_input_autocomplete/issues/4) | [![PR] Fix FormFieldKey Initialization Error](https://github.com/BruckCode/chips_input_autocomplete/pull/5) |
+| [![RESOLVED] Setting 'initialChips' causes error](https://github.com/BruckCode/chips_input_autocomplete/issues/4) | [![PR_MERGED] Fix FormFieldKey Initialization Error](https://github.com/BruckCode/chips_input_autocomplete/pull/5) |
 
 [ISSUE]: ./assets/issue.png
 
