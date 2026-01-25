@@ -1,28 +1,48 @@
 <!---
-yashas-hm/yashas-hm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+yashas-hm/yashas-hm is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
 
-### Hi, I'm
-<img src="assets/text_name.png" alt="Yashas H Majmudar">
+<div align="center">
 
-#### Welcome to my GitHub Profile! 🚀
+<img src="assets/text_name.png" alt="Yashas H Majmudar"><br>
+**Software Engineer · Full Stack · Flutter · AI Systems**
 
-🔥 I craft beautiful, high-performance mobile apps with Flutter. Obsessed with clean architecture, smooth animations, and solving real-world problems, one widget at a time. Always learning, always shipping.
+Building **production-grade software systems end-to-end**, from polished<br>
+Flutter frontends to scalable backends and AI-powered pipelines.
 
-Fluttering through bugs, features, and the occasional existential crisis.
+**10K+ users · 99.8% uptime · 40% latency reduction · 40% crash reduction**
 
-#### 🌟 Highlights
-- I write [blogs & articles](https://yashashm.medium.com/) sharing Flutter insights and tips
-- I deliver [talks and workshops](https://github.com/yashas-hm/talks) to share Flutter magic 
-- I contribute to [open source projects](./contributions.md) making Flutter better for everyone
+</div>
+
+---
+
+### 🌟 Highlights
+
+- ✍️ I write about engineering & Flutter: [Blog](https://yashashm.medium.com/)
+- 🎤 I give talks & workshops: [Talks](https://github.com/yashas-hm/talks)
+- 🧩 I contribute to open source: [Contributions](./contributions.md)
+- 🚀 I’ve shipped systems used by **10K+ users** with **99.8% uptime**
   
-#### 📫 How to reach me:
-[<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashm.dev@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashas_hm)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YashasMajmudar)
+---
+
+My work focuses on **shipping real products**, not demos:
+- AI systems that care about **latency, reliability, and inference**
+- Backend services that scale cleanly
+- Mobile apps that feel fast, intentional, and human
+
+I believe great engineering is where **architecture, performance, and product sense** meet.
+
+---
+
+### 🔍 What I work on
+
+- **AI Systems**: RAG pipelines, LangChain, LLM integration, vector search
+- **Backend Engineering**: FastAPI, Node.js, REST APIs, scalable data models
+- **Mobile & Frontend**: Flutter apps with clean architecture and smooth UX
+- **Infrastructure**: Dockerized deployments, CI/CD, cloud-native systems
+- **Applied ML**: Computer vision, on-device ML, inference optimization
+
+---
 
 ### 👀 Things I know
 
@@ -50,22 +70,27 @@ Fluttering through bugs, features, and the occasional existential crisis.
 
 ---
 
-🌱 Currently exploring the fascinating world of Artificial Intelligence and Machine Learning.
+### 🌱 Current Focus
 
-🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers. [My Contributions 🎉](./contributions.md).
-
-⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
+- Designing **AI-native application architectures**
+- Improving **LLM inference performance & retrieval pipelines**
+- Building systems that are **boring to deploy and exciting to use**
+- Research on **VR Haptics**
 
 ---
 
-### 🎤😶‍🌫 I sing too:
+### 📫 Connect with me
 
+[<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashm.dev@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashm)&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YashasMajmudar)
+
+---
+
+### 🎤 Outside of code
+
+I sing too because engineering needs rhythm 🎶  
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/yashashm)
 
-### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashas-hm&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=0.5)
-
-![](https://github-profile-trophy.vercel.app/?username=yashas-hm&theme=onedark&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=5)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashas-hm&theme=onedark&hide_border=false)
