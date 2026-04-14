@@ -36,7 +36,7 @@ Repository Link: [VeryGoodOpenSource/very_good_templates](https://github.com/Ver
 | Issue                                                                                                                                    | Pull-Request                                                                                                                      |
 |:-----------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | [![RESOLVED] feat: add platform flags to the template](https://github.com/VeryGoodOpenSource/very_good_templates/issues/30)              | [![PR_MERGED] feat(very_good_flame): add platform options](https://github.com/VeryGoodOpenSource/very_good_templates/pull/340)    |
-| [![ISSUE] feat: Add linux platform support to flame game template](https://github.com/VeryGoodOpenSource/very_good_templates/issues/343) | [![PR] feat(very_good_flame_game): add linux platform option](https://github.com/VeryGoodOpenSource/very_good_templates/pull/350) |
+| [![RESOLVED] feat: Add linux platform support to flame game template](https://github.com/VeryGoodOpenSource/very_good_templates/issues/343) | [![PR_MERGED] feat(very_good_flame_game): add linux platform option](https://github.com/VeryGoodOpenSource/very_good_templates/pull/350) |
 
 ---
 
