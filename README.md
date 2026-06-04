@@ -20,7 +20,7 @@ Flutter frontends to scalable backends and AI-powered pipelines.
 
 - ✍️ I write about engineering & Flutter: [Blog](https://yashashm.medium.com/)
 - 🎤 I give talks & workshops: [Talks](https://github.com/yashas-hm/talks)
-- 🧩 I contribute to open source: [Contributions](./contributions.md)
+- 🧩 I contribute to open source: [Contributions](https://yashashm.dev/contributions)
 - 🚀 I’ve shipped systems used by **10K+ users** with **99.8% uptime**
   
 ---
