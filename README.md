@@ -15,7 +15,7 @@ Fluttering through bugs, features, and the occasional existential crisis.
 #### 🌟 Highlights
 - I write [blogs & articles](https://yashashm.medium.com/) sharing Flutter insights and tips
 - I deliver [talks and workshops](https://github.com/yashas-hm/talks) to share Flutter magic 
-- I contribute to [open source projects](./contributions.md) making Flutter better for everyone
+- I contribute to [open source projects](https://yashashm.dev/contributions) making software better for everyone
   
 #### 📫 How to reach me:
 [<img src="./assets/website_badge.png" height=27 alt="Website">](https://yashashm.dev)&nbsp;
@@ -52,7 +52,7 @@ Fluttering through bugs, features, and the occasional existential crisis.
 
 🌱 Currently exploring the fascinating world of Artificial Intelligence and Machine Learning.
 
-🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers. [My Contributions 🎉](./contributions.md).
+🚀 Proud contributor to open-source projects and always looking for new opportunities to collaborate with fellow developers. [My Contributions 🎉](https://yashashm.dev/contributions).
 
 ⭐️ Let's connect and build something amazing together! Feel free to reach out to me for any exciting projects or ideas.
 
