@@ -1,0 +1,17 @@
+README.md
+  h_489c0496f9f57d 3-8,15,17-21,23,28,32,38-44,50-61,67-72,89
+  h_489c0496f9f57d 25,79-82
+contributions.md
+  h_489c0496f9f57d 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "db7bf1cd24bfc390eda59d19fd0446aea84ac7fb",
+  "prompts": {},
+  "humans": {
+    "h_489c0496f9f57d": {
+      "author": "Yashas H Majmudar <yashashm.dev@gmail.com>"
+    }
+  }
+}
